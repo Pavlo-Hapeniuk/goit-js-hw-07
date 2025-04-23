@@ -1,4 +1,4 @@
-const backgroundElem = document.querySelector(".color");
+const colorSpanElem = document.querySelector(".color");
 const btnElem = document.querySelector(".change-color");
 
 btnElem.addEventListener("click", handleBtnClick);
